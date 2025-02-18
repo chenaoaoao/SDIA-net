@@ -14,7 +14,7 @@ Multi-light source illumination Dataset
 Inside the mydata folder in the master branch, including the dataset and its labels.
 <img width="808" alt="image" src="https://github.com/user-attachments/assets/132d3b75-ebec-4fe1-bc79-d7a77431c13d" />
 
-<h2>**Contact</h2>
+<h2><strong>Contact</strong></h2>
 
 If you have any questions, feel free to contact:
 
